@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "solitary-art-ad55",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "96a76719-2c53-4f34-bad3-84e7bfab58d5",
+      "database_name": "odd-poetry-6431-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
